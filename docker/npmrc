@@ -1,0 +1,11 @@
+color=false
+git=git
+rollback=true
+shell=/bin/bash
+usage=false
+cache-max=1
+cache-min=1
+rollback=true
+git=git
+progress=false
+loglevel=warn

@@ -1,0 +1,28 @@
+{
+  "name": "flycheck",
+  "version": "0.0.0",
+  "description": "Flycheck - NPM Dependencies - This file is not meant to be a release but a versioned list of dependencies for CI",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flycheck/flycheck.git"
+  },
+  "license": "MIT",
+  "homepage": "http://flycheck.org",
+  "dependencies": {
+    "coffeelint": "^1.16.0",
+    "csslint": "^1.0.5",
+    "eslint": "^3.19.0",
+    "eslint-plugin-react": "^6.10.3",
+    "handlebars": "^4.0.6",
+    "js-yaml": "^3.8.3",
+    "jscs": "^3.0.7",
+    "jshint": "^2.9.4",
+    "jsonlint": "^1.6.2",
+    "less": "^2.7.2",
+    "pug-cli": "^1.0.0-alpha6",
+    "semistandard": "^11.0.0",
+    "standard": "^10.0.2",
+    "tslint": "^5.1.0",
+    "typescript": "^2.2.2"
+  }
+}
